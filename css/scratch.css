@@ -1,0 +1,35 @@
+.container {
+    width: 200px;
+    height 112.5px;
+}
+
+.picture {
+top: 0;
+right: 0;
+position: absolute;
+float: right;
+}
+
+.title {
+    font-family:sans-serif;
+    letter-spacing: 2px;
+    text-align: center;
+    position: center;
+    color:yellow;
+}
+
+body {
+    background-color: navy;
+    font-family: monospace;
+    color:aliceblue; 
+}
+
+a {
+    color:aliceblue;
+}
+a:visited {
+    color:chartreuse;
+}
+a:hover {
+    color: yellow;
+}
